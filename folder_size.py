@@ -10,7 +10,7 @@ what I have learned about this script?
     exit the program with some sentences
 
 -os.walk(a_dir_name:str)
-    return  a tuple(dirpath, dirnames, filenames)
+    return  a generator , every element is a tuple(dirpath, dirnames, filenames)
     
     description: 
     dirpath is a string, the path to the directory.  dirnames is a list of
