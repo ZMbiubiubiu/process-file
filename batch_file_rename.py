@@ -1,6 +1,8 @@
 # batch_file_rename.py
 # Created: 4 23 2019
 
+# 关于argparse库的使用, 可以参考https://zhuanlan.zhihu.com/p/34395749这篇文章
+
 """
 Batch rename a group of files in a given directory,
 once you pass the current and new extensions
